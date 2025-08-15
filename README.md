@@ -4,7 +4,7 @@ This repository contains the materials for Week 1 lecture 2. You can open the re
 
 ```
 #install.packages("usethis")
-usethis::create_from_github("SDS322E-2025Fall/welcome")
+usethis::create_from_github("SDS322E-2025Fall/0102-welcome")
 ```
 
 If you have Git installed on your computer, you cna also open the repository through the following steps:
